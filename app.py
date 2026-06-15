@@ -5,7 +5,6 @@ import datetime
 import plotly.express as px
 import joblib
 
-st.title("VERSION TEST 2 - IF YOU SEE THIS, DEPLOY WORKS")
 st.set_page_config(page_title="Smart Fridge", layout="wide")
 
 FILE = "inventory.csv"
